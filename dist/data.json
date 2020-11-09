@@ -1,0 +1,202 @@
+[
+  {
+    "mfg": "Crucible Industries",
+    "name": "CPM-3V",
+    "bhqSharpening": 5,
+    "bhqRetention": 7,
+    "bhqToughness": 10,
+    "bhqResistance": 5
+  },
+  {
+    "mfg": "Crucible Industries",
+    "name": "CPM-4V",
+    "bhqSharpening": 5,
+    "bhqRetention": 8,
+    "bhqToughness": 9,
+    "bhqResistance": 5
+  },
+  {
+    "mfg": "Crucible Industries",
+    "name": "CPM-20CV",
+    "bhqSharpening": 2,
+    "bhqRetention": 9,
+    "bhqToughness": 6,
+    "bhqResistance": 7
+  },
+  {
+    "mfg": "Crucible Industries",
+    "name": "CPM-154",
+    "bhqSharpening": 5,
+    "bhqRetention": 6,
+    "bhqToughness": 4,
+    "bhqResistance": 5
+  },
+  {
+    "mfg": "Crucible Industries",
+    "name": "154CM",
+    "bhqSharpening": 5,
+    "bhqRetention": 5,
+    "bhqToughness": 4,
+    "bhqResistance": 5
+  },
+  {
+    "mfg": "Various",
+    "name": "440C/420HC/420C",
+    "bhqSharpening": 6,
+    "bhqRetention": 4,
+    "bhqToughness": 5,
+    "bhqResistance": 4
+  },
+  {
+    "mfg": "AISI",
+    "name": 1095,
+    "bhqSharpening": 7,
+    "bhqRetention": 5,
+    "bhqToughness": 7,
+    "bhqResistance": 2
+  },
+  {
+    "mfg": "AISI",
+    "name": "A2",
+    "bhqSharpening": 4,
+    "bhqRetention": 6,
+    "bhqToughness": 8,
+    "bhqResistance": 5
+  },
+  {
+    "mfg": "AICHI",
+    "name": "AUS-8",
+    "bhqSharpening": 8,
+    "bhqRetention": 3,
+    "bhqToughness": 4,
+    "bhqResistance": 4
+  },
+  {
+    "mfg": "Carpenter",
+    "name": "CTS-BD1",
+    "bhqSharpening": 7,
+    "bhqRetention": 5,
+    "bhqToughness": 5,
+    "bhqResistance": 7
+  },
+  {
+    "mfg": "Carpenter",
+    "name": "CTS-XHP",
+    "bhqSharpening": 5,
+    "bhqRetention": 9,
+    "bhqToughness": 6,
+    "bhqResistance": 6
+  },
+  {
+    "mfg": "AISI",
+    "name": "D2",
+    "bhqSharpening": 3,
+    "bhqRetention": 7,
+    "bhqToughness": 6,
+    "bhqResistance": 4
+  },
+  {
+    "mfg": "Bohler-Uddeholm",
+    "name": "Elmax",
+    "bhqSharpening": 4,
+    "bhqRetention": 9,
+    "bhqToughness": 6,
+    "bhqResistance": 5
+  },
+  {
+    "mfg": "Myodo",
+    "name": "H1",
+    "bhqSharpening": 8,
+    "bhqRetention": 2,
+    "bhqToughness": 7,
+    "bhqResistance": 10
+  },
+  {
+    "mfg": "Zapp",
+    "name": "LC200N",
+    "bhqSharpening": 6,
+    "bhqRetention": 6,
+    "bhqToughness": 5,
+    "bhqResistance": 9
+  },
+  {
+    "mfg": "Crucible Industries",
+    "name": "CPM-M4",
+    "bhqSharpening": 3,
+    "bhqRetention": 9,
+    "bhqToughness": 7,
+    "bhqResistance": 2
+  },
+  {
+    "mfg": "Bohler-Uddeholm",
+    "name": "M390",
+    "bhqSharpening": 2,
+    "bhqRetention": 9,
+    "bhqToughness": 6,
+    "bhqResistance": 7
+  },
+  {
+    "mfg": "Bohler-Uddeholm",
+    "name": "N690",
+    "bhqSharpening": 6,
+    "bhqRetention": 5,
+    "bhqToughness": 4,
+    "bhqResistance": 7
+  },
+  {
+    "mfg": "AISI",
+    "name": "O1",
+    "bhqSharpening": 5,
+    "bhqRetention": 6,
+    "bhqToughness": 8,
+    "bhqResistance": 3
+  },
+  {
+    "mfg": "Crucible Industries",
+    "name": "CPM-S30V",
+    "bhqSharpening": 5,
+    "bhqRetention": 8,
+    "bhqToughness": 5,
+    "bhqResistance": 7
+  },
+  {
+    "mfg": "Crucible Industries",
+    "name": "CPM-S35VN",
+    "bhqSharpening": 5,
+    "bhqRetention": 8,
+    "bhqToughness": 6,
+    "bhqResistance": 7
+  },
+  {
+    "mfg": "Crucible Industries",
+    "name": "CPM-S90V",
+    "bhqSharpening": 1,
+    "bhqRetention": 9,
+    "bhqToughness": 3,
+    "bhqResistance": 5
+  },
+  {
+    "mfg": "Crucible Industries",
+    "name": "CPM-S110V",
+    "bhqSharpening": 1,
+    "bhqRetention": 10,
+    "bhqToughness": 2,
+    "bhqResistance": 6
+  },
+  {
+    "mfg": "Sandvik",
+    "name": "12C27/13C26/14C28N",
+    "bhqSharpening": 6,
+    "bhqRetention": 4,
+    "bhqToughness": 6,
+    "bhqResistance": 4
+  },
+  {
+    "mfg": "Takefu",
+    "name": "VG10",
+    "bhqSharpening": 6,
+    "bhqRetention": 5,
+    "bhqToughness": 4,
+    "bhqResistance": 7
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "steelradar",
+  "version": "1.0.0",
+  "description": "Radar charting for steel properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
